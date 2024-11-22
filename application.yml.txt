@@ -1,0 +1,3 @@
+some:
+  config:
+    property: "Hola desde el Config Server"
